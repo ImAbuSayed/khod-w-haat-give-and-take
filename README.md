@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ضياء روحي في هذا المساء
+> عيني تراك في كل ضياء
+> روحي تنادي بلا انتهاء
+> نبضي يحبك حتى السماء
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
