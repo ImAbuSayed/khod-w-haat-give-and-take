@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Khod W Haat – Give and take
+
+This log tracks the cryptographic history and versioning for the song **Khod W Haat – Give and take** (khod-w-haat-give-and-take).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:10:47.755619 | `v1` | `6d90349cc0f3fa3d9bad3a2a2d7a8bec3641163220003f9d6cbc45d06ffe0cc8` | `5c5114e568eb9d13ffa8893bfcaffbb1b6573f8bf373433e7eb43118e0f34620` | `2026-05-09_khod-w-haat-give-and-take-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
